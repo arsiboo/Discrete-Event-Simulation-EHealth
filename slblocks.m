@@ -3,7 +3,7 @@ function blkStruct = slblocks
 		% in the Library Browser
 		% and be cached in the browser repository
 
-	x	Browser.Library = 'DepartmentLib';
+		Browser.Library = 'DepartmentLib';
 		% 'mylib' is the name of the library
 
 		Browser.Name = 'Department';
