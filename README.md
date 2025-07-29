@@ -6,7 +6,7 @@ Link to the paper: https://ieeexplore.ieee.org/document/8970080
 
 ## Citation
 
-If you use this algorithm in your research or publications, please cite the following work:
+If you use this approach in your research or publications, please cite the following work:
 
 Boodaghian Asl, A., & Gokan Khan, M. (2019, November). Studying the effect of online medical applications on patients healing time and doctors utilization using discrete event simulation. In 2019 E-Health and Bioengineering Conference (EHB) (pp. 1-6). IEEE.
 
